@@ -1,4 +1,4 @@
-# Resume Project
+# Changelog Project
 
 A simple HTML project that showcases timeline of events.
 
@@ -8,16 +8,16 @@ https://roadmap.sh/projects/changelog-component
 
 ## 📂 Project Structure
 
-- `Changelog.html` — Main HTML file containing changelog.
-- `Styles.css` - Styles file that is applied to the Changelog.html.
+- `changelog.html` — Main HTML file containing changelog.
+- `styles.css` - Styles file that is applied to the Changelog.html.
 
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/basic-html-website.git
-cd basic-html-website
+git clone https://github.com/<your-username>/changelog.git
+cd changelog
 ```
 
-# basic-html-website
+# changelog
